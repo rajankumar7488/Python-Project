@@ -1,0 +1,1 @@
+This Python project focuses on creating interactive and static data visualizations using real or synthetic datasets. The main goal is to help users understand trends, patterns, and distributions in data through visual tools like bar charts, pie charts, line graphs, histograms, and box plots.
